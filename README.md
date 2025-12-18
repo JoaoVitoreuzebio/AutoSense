@@ -46,17 +46,15 @@ O **AutoSense** é um sistema embarcado projetado para democratizar o acesso aos
 
 ---
 
----
 
 ## 📸 Demonstração
 <div align="center">
-  <video src="videonextion.mp4" width="600" controls>
-    O seu navegador não suporta a visualização de vídeos.
+  <video src="https://github.com/user-attachments/assets/1417bb9c-8751-41bc-8818-27d2ff0fa83d" width="600" controls>
+    Seu navegador não suporta a reprodução de vídeos.
   </video>
-  <p><i>Demonstração do AutoSense: Interface Nextion e telemetria via ESP32</i></p>
+  <p><i>Demonstração da interface touch e leitura de dados em tempo real.</i></p>
 </div>
 
----
 
 ---
 
